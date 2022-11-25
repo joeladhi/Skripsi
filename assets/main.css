@@ -1,0 +1,23 @@
+.bg-main{
+    background-color: #D6E4E5;
+}
+
+.hover-bg-main:hover{
+    background-color: #D6E4E5;
+}
+
+.hover-bg-second:hover{
+    background-color: #497174;
+}
+
+.bg-second{
+    background-color: #497174;
+}
+
+.txt-main{
+    color: #D6E4E5;
+}
+
+.txt-second{
+    color: #497174;
+}
